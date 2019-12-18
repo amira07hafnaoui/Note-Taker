@@ -23,9 +23,9 @@ For users that need to keep track of a lot of information, it's easy to forget o
 # Links to project 
 
 ### GitHub
-[note-taker]()
+[note-taker](https://github.com/amira07hafnaoui/Note-Taker)
 
  ### Heroku
 [note-taker](https://note-taker07.herokuapp.com/)
 
-https://note-taker07.herokuapp.com/notes
+

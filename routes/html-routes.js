@@ -1,4 +1,3 @@
-
 var path = require("path");
 // configuring routes for HTTP requests.
 module.exports = function (app) {
